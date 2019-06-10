@@ -1,2 +1,2 @@
-# Project: Mail Bot
-The task is to build a mail-delivery robot that will pickup and dropoff parcels.
+# Eloquent Javascript Practice
+Collection of practice and excercised from EJ
