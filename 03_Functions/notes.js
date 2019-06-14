@@ -1,17 +1,17 @@
 /// Defining a Function
 
 // pure function to find the square of a number
-const square = function(n) {
+function square(n) {
     return n * n;
 }
 
 // function that makes noise (side effect)
-const makeNoise = function(){
+function makeNoise(){
     console.log('Pling!');
 }
 
 // pure function that calculates the power from a base n and exponent
-const power = function(base, exponent){
+function power(base, exponent){
     let result = 1;
     for (let count = 0; count < exponent; count++ ) {
         result *= base;
