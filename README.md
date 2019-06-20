@@ -1,2 +1,2 @@
 # Eloquent Javascript Practice
-Collection of practice and excercised from EJ
+Collection of practice and exercises from EJ.net
